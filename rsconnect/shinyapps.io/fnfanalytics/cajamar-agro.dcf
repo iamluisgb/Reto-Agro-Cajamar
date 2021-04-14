@@ -1,0 +1,12 @@
+name: cajamar-agro
+title: cajamar-agro
+username:
+account: fnfanalytics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3799734
+bundleId: 4466810
+url: https://fnfanalytics.shinyapps.io/cajamar-agro/
+when: 1618336274.1655
+asMultiple: FALSE
+asStatic: FALSE

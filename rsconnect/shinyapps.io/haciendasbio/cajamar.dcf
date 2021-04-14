@@ -1,0 +1,12 @@
+name: Cajamar
+title: Cajamar
+username:
+account: haciendasbio
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3749111
+bundleId: 4469300
+url: https://fnfanalytics.shinyapps.io/Cajamar/
+when: 1618387136.87834
+asMultiple: FALSE
+asStatic: FALSE
